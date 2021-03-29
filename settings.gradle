@@ -1,2 +1,12 @@
 include ':app'
 rootProject.name = "FacebookSdkTest"
+
+include ':fbsdkAndroid:facebook'
+include ':fbsdkAndroid:facebook-applinks'
+include ':fbsdkAndroid:facebook-core'
+include ':fbsdkAndroid:facebook-common'
+include ':fbsdkAndroid:facebook-gamingservices'
+include ':fbsdkAndroid:facebook-login'
+include ':fbsdkAndroid:facebook-messenger'
+include ':fbsdkAndroid:facebook-places'
+include ':fbsdkAndroid:facebook-share'

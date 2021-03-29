@@ -12,6 +12,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-applinks" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-common" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-core" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-gamingservices" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-login" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-messenger" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-places" />
+            <option value="$PROJECT_DIR$/fbsdkAndroid/facebook-share" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
