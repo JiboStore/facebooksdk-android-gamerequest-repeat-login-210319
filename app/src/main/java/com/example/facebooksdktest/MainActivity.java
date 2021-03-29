@@ -15,7 +15,8 @@ import com.facebook.FacebookSdk;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 import com.facebook.share.model.GameRequestContent;
-import com.facebook.share.widget.GameRequestDialog;
+//import com.facebook.share.widget.GameRequestDialog;
+import com.facebook.gamingservices.GameRequestDialog;
 
 import java.util.Arrays;
 
